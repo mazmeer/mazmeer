@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Azmeer
+- 👀 I’m interested in coding languages and databases.
+- 🌱 I’m currently learning oop
+- 💞️ I’m looking to collaborate on python projects
+- 📫 How to reach me (m.azmeer2003@gmail.com)
